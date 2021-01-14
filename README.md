@@ -1,2 +1,0 @@
-# WebD
-My WebDev Projects
