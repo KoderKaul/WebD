@@ -1,0 +1,84 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+h1 {
+  margin: 0;
+  font-size: 3.5em;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+h3,
+a {
+  color: #11999e;
+}
+p {
+  margin: 0;
+}
+.bottom-cloud {
+  position: absolute;
+}
+.para {
+  font-family: "Dancing Script", cursive;
+  font-size: 1.5em;
+  line-height: 2;
+}
+.pro {
+  text-decoration: underline;
+}
+.top-container {
+  padding-top: 100px;
+  background-color: #28a1a170;
+  font-family: "Acme", sans-serif;
+  color: #00303f;
+}
+.bottom-container {
+  font-family: montserrat;
+}
+.code {
+  width: 15%;
+  margin: 0 25px 0 0;
+  float: right;
+}
+.code-text {
+  text-align: left;
+}
+.gym {
+  width: 20%;
+  margin: 0 25px 0 0;
+  float: left;
+}
+.gym-text {
+  text-align: left;
+}
+p.gym-text {
+  margin-bottom: 50px;
+}
+.middle-container {
+  font-family: montserrat;
+  text-align: center;
+}
+.skill-row {
+  width: 50%;
+  margin: auto;
+}
+.upper-cloud {
+  position: relative;
+  left: 250px;
+}
+/* .red {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  top: 500px;
+}
+.blue {
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+}
+.yellow {
+  background-color: yellow;
+  width: 100px;
+  height: 100px;
+} */
